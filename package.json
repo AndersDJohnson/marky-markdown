@@ -45,7 +45,7 @@
     "markdown-it": "^5.0.2",
     "markdown-it-lazy-headers": "^0.1.3",
     "property-ttl": "^1.0.0",
-    "sanitize-html": "^1.6.1",
+    "sanitize-html": "^2.18.1",
     "similarity": "^1.0.1",
     "slugg": "^0.1.2"
   },
